@@ -1,0 +1,31 @@
+2009-09-20 14:46  Dave Cross  <dave@dave.org.uk>
+
+	* README: Added stuff to README
+
+	* commit 630bc31727b945b7dcc1f73112df083f0e7bb501
+
+2009-09-20 14:44  Dave Cross  <dave@dave.org.uk>
+
+	* lib/WWW/Shorten/SnipURL.pm: Fixed SnipURL.pm.
+
+	* commit 8536351da037cd9515e8c18c456a5dbc096d379d
+
+2009-09-20 14:21  Dave Cross  <dave@dave.org.uk>
+
+	* t/98pod-coverage.t, t/99pod.t, t/snipurl.t: Added tests.
+
+	* commit 61f410c64d50bc32745fe048189f09bf44da33c3
+
+2009-09-08 10:31  Dave Cross  <dave@dave.org.uk>
+
+	* lib/WWW/Shorten/SnipURL.pm: Added original (broken) version
+	of WWW::Shorten::SnipURL.
+
+	* commit 93f4d42a5663e9f90798c9dab3dbe6aaa08fd809
+
+2009-09-08 10:28  Dave Cross  <dave@dave.org.uk>
+
+	* Initial commit
+
+	* commit dc47fc0c773113e1fda3ce7e9100294b37a2d151
+

@@ -1,0 +1,25 @@
+---
+name: WWW-Shorten-SnipURL
+version: 2.00
+author:
+  - 'Dave Cross <dave@mag-sol.com>'
+  - Original author Shashank Tripathi <shank@shank.com>.
+abstract: Perl interface to SnipURL.com
+license: perl
+resources:
+  homepage: http://code.mag-sol.com/WWW-Shorten-SnipURL/
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/davorg/www-shorten-snipurl.git
+requires:
+  WWW::Shorten: 0
+  perl: 5.006
+build_requires:
+  Test::More: 0.47
+provides:
+  WWW::Shorten::SnipURL:
+    file: lib/WWW/Shorten/SnipURL.pm
+    version: 2.00
+generated_by: Module::Build version 0.32
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
